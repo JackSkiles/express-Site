@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(161, 161, 168);
+}
+
+#title {
+    font-size: 60px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#header {
+    display: flex;
+    background-color: aliceblue;
+    justify-content: flex-start;
+}
+
+#space {
+    height: 10vh;
+}
+
+#par {
+    display: flex;
+    width: 90vh;
+    flex-direction: column;
+}
+#text {
+    background-color: aliceblue;
+}
