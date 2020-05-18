@@ -24,9 +24,15 @@ div {
 
 #par {
     display: flex;
-    width: 90vh;
+    width: 80vh;
     flex-direction: column;
 }
 #text {
     background-color: aliceblue;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
